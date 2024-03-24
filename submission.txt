@@ -1,0 +1,7 @@
+Git-link: https://github.com/Ritii-13/Diamond-Bids
+
+Colab-link: https://colab.research.google.com/drive/1l_1xlyZFxyD9-sZACcEnYddV7sS0vED2?usp=sharing 
+
+Chat-link: https://docs.google.com/document/d/1KMQ6H_0CRkNH782jQwfMW2U9oO2YdnStbrURV4xmR9k/edit?usp=sharing 
+
+Latex-link: https://www.overleaf.com/read/ztgvjhcjyssf#a9f8f4 
